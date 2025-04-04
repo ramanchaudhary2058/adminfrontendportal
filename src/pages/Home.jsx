@@ -20,12 +20,7 @@ const HomePage = () => {
             Admin Page
           </button>
 
-          <button
-            onClick={() => navigate(LOGIN_ROUTE)}
-            className="bg-green-600 text-white py-2 px-6 rounded-lg text-lg font-semibold hover:bg-green-700 transition"
-          >
-            Student Page
-          </button>
+         
         </div>
       </div>
     </div>
